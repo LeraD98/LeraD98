@@ -5,7 +5,7 @@
 Languages: JavaScript, TypeScript, Node.js
 Frameworks: React, Next.js, Express
 Back End: PostgreSQL, MongoDB, REST APIs
-Front End: HTML, CSS, Tailwind, accessibility-first design
+Front End: HTML, CSS, Tailwind
 Testing: Jest, Supertest (TDD)
 Workflow: Git, GitHub, Agile, Pair Programming
 
