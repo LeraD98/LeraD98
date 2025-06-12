@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🛠️ Tech Stack
+
 Languages: JavaScript, TypeScript, Node.js
 Frameworks: React, Next.js, Express
 Back End: PostgreSQL, MongoDB, REST APIs
@@ -9,6 +10,7 @@ Testing: Jest, Supertest (TDD)
 Workflow: Git, GitHub, Agile, Pair Programming
 
 🔧 Current Projects
+
 NC News API – RESTful API built with Node.js, Express & PostgreSQL
 
 NC News Frontend – React app for viewing and interacting with articles
